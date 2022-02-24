@@ -1,4 +1,7 @@
 # Ambassador-programs-&-Partnerships
+
+This is a collection of champion, ambassador, partnership, and professional (MVP) initiatives relating to technology.
+
 <h3>For Students</h3>
 
 [GitHub Campus Expert](https://education.github.com/experts)<br>
