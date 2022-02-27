@@ -1,6 +1,6 @@
 # Ambassador-programs-&-Partnerships
 
-This is a collection of champion, ambassador, partnership, and professional (MVP) initiatives relating to technology
+<h5>This is a collection of champion, ambassador, partnership, and professional (MVP) initiatives relating to technology.</h5> 
 
 <h3> :octocat: For Students</h3> 
 
